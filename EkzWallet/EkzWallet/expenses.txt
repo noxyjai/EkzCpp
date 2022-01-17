@@ -1,0 +1,43 @@
+expenses of day
+       Other        0     3     6
+     Technol.      90     3     6
+     Technol.      86     3     6
+expenses of week
+       Food        89     2     4
+       Beauty      87     2     9
+       Food        81     2     9
+       Beauty      80     2     8
+     Technol.      77     2     9
+       Other       63     2     3
+       Beauty      59     2     3
+     Technol.      58     2     3
+       Beauty      58     2     9
+     Technol.      48     2     6
+       Beauty      46     2     3
+       Beauty      41     2     3
+       Food        38     2     5
+       Beauty      35     2     3
+       Food        20     2     3
+       Other       13     2     6
+     Technol.       0     2     7
+expenses of month
+       Beauty      99     3     9
+       Other       92     3     7
+     Technol.      90     3     6
+     Technol.      86     3     6
+       Other       74     3     5
+     Technol.      62     3     1
+     Technol.      62     3     1
+       Beauty      58     3     9
+       Beauty      45     3     1
+       Beauty      42     3     2
+       Food        26     3     9
+       Food        25     3     4
+       Other       18     3     3
+       Other       17     3     1
+       Beauty      14     3     8
+       Beauty      13     3     2
+       Beauty       9     3     9
+       Beauty       7     3     8
+       Other        0     3     6
+       Beauty       0     3     5

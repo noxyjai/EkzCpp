@@ -1,0 +1,8 @@
+top 3 category of week
+     Technol.      78     1     6
+     Technol.      67     1     7
+     Technol.      62     1     6
+top 3 category of week
+       Health     100     2     2
+       Food        89     2     4
+       Other       88     2     1

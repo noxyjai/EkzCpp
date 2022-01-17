@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\dev\OOPcpp\C++\EkzWallet\EkzWallet\Header.h(179,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\dev\OOPcpp\C++\EkzWallet\EkzWallet\Source.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  EkzWallet.vcxproj -> D:\dev\OOPcpp\C++\EkzWallet\Debug\EkzWallet.exe
